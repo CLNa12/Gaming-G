@@ -1,1 +1,16 @@
-<svg width="846" height="933" fill="none" xmlns="http://www.w3.org/2000/svg"><g opacity=".5" filter="url(#a)"><path d="M629.707 124.554c-87.399 25.906-181.507 19.587-266.998-12.998-28.569-10.892-59.513-15.537-90.439-7.507-111.29 28.894-109.616 197.329-82.037 286.227 27.58 88.898-93.839 161.27-90.151 280.269 3.671 118.999 208.025 50.534 293.642 72.767 49.456 12.837 84.286 84.29 240.912 89.421 156.626 5.112 271.711-62.164 194.964-283.077-76.73-220.913 47.765-368.285-79.77-432.645-37.277-18.813-86.931-2.286-120.123 7.543Z" fill="url(#b)"/></g><defs><linearGradient id="b" x1="460.696" y1="814.567" x2="543.003" y2="88.772" gradientUnits="userSpaceOnUse"><stop stop-color="#fff" stop-opacity="0"/><stop offset=".99" stop-color="#FDF7FC"/></linearGradient><filter id="a" x="0" y="0" width="954" height="933" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB"><feFlood flood-opacity="0" result="BackgroundImageFix"/><feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/><feGaussianBlur stdDeviation="50" result="effect1_foregroundBlur_10_532"/></filter></defs></svg>
+<svg width="846" height="933" viewBox="0 0 846 933" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g opacity="0.5" filter="url(#filter0_f_10_532)">
+<path d="M629.707 124.554C542.308 150.46 448.2 144.141 362.709 111.556C334.14 100.664 303.196 96.0195 272.27 104.049C160.98 132.943 162.654 301.378 190.233 390.276C217.813 479.174 96.3944 551.546 100.082 670.545C103.753 789.544 308.107 721.079 393.724 743.312C443.18 756.149 478.01 827.602 634.636 832.733C791.262 837.845 906.347 770.569 829.6 549.656C752.87 328.743 877.365 181.371 749.83 117.011C712.553 98.1979 662.899 114.725 629.707 124.554Z" fill="url(#paint0_linear_10_532)"/>
+</g>
+<defs>
+<filter id="filter0_f_10_532" x="0" y="0" width="954" height="933" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="50" result="effect1_foregroundBlur_10_532"/>
+</filter>
+<linearGradient id="paint0_linear_10_532" x1="460.696" y1="814.567" x2="543.003" y2="88.7724" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0"/>
+<stop offset="0.9899" stop-color="#FDF7FC"/>
+</linearGradient>
+</defs>
+</svg>
